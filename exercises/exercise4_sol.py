@@ -12,4 +12,4 @@ def quadratic():
     x = int(input("Pick a value for x: "))
     return 2*x*x + 3*x + 1
 
-quadratic()
+print(quadratic())
